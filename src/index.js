@@ -11,7 +11,8 @@ import './index.css'
 // import Index from './demo12'
 // import Index from './useRef'
 // import Index from './routerDemo'
-import App from './useCallBack'
+// import App from './useCallBack'
 // import App from './recoil/app'
+import App from './lazy/App'
 
 ReactDOM.render(<App/>, document.getElementById('root'))
